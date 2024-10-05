@@ -40,3 +40,4 @@ This project is licensed under the Truly Libre License, the terms are specified 
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have any suggestions or improvements.
+(Yes this uses code made by AI)
