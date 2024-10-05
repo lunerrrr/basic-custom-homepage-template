@@ -9,11 +9,12 @@ This project is a simple homepage with a search form that redirects to Google an
 - **Dark Theme**: The page is styled with a dark theme for better readability and aesthetics.
 
 ## Files
-
+- `assets/`: A directory containing assets, in the current state it contains the github logo for the quick access feature and the website's favicon
 - `index.html`: The main HTML file that contains the structure of the homepage.
 - `style.css`: The CSS file that contains the styles for the homepage.
 - `index.js`: The JavaScript file that handles the search form submission and redirection.
 - `LICENSE.md`: The license file for the project.
+- `README.md`: This file, the readme.
 
 ## Usage
 
@@ -29,7 +30,7 @@ This project is a simple homepage with a search form that redirects to Google an
 
 3. **Run a webserver. (In this example we will use http.server from python3)**:
     ```sh
-    py -m http.server
+    python -m http.server #(replace python with py if on windows)
     ```
     
 ## License
